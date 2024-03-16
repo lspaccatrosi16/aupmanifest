@@ -40,5 +40,12 @@
         "binaryName": "toascii",
         "artifactName": "toascii-linux",
         "description": "replaces any non ascii character in a text file"
+    },
+    {
+        "name": "motion",
+        "repoKey": "lspaccatrosi16/motion-tui",
+        "binaryName": "motion",
+        "artifactName": "motion-linux",
+        "description": "cli interface for motion"
     }
 ]
