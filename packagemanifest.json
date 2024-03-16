@@ -1,0 +1,32 @@
+[
+    {
+        "name": "g++",
+        "description": "C++ compiler",
+        "apt": "gcc-c++",
+        "dnf": "gcc-c++"
+    },
+    {
+        "name": "gh",
+        "description": "Github CLI",
+        "apt": "gh",
+        "dnf": "gh"
+    },
+    {
+        "name": "flatpak",
+        "description": "package manager",
+        "apt": "flatpak",
+        "dnf": "flatpak",
+        "postinstall": "flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo"
+    },
+    {
+        "name": "codium",
+        "description": "code editor",
+        "flatpak": "com.vscodium.codium"
+    },
+    {
+        "name": "gcc",
+        "description": "C compiler",
+        "apt": "gcc",
+        "dnf": "gcc"
+    }
+]
