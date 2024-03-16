@@ -4,48 +4,55 @@
         "repoKey": "lspaccatrosi16/tools",
         "binaryName": "releasetool",
         "artifactName": "releasetool-linux",
-        "description": "automatic github asset releaser"
+        "description": "automatic github asset releaser",
+        "category": ["CLI Tool", "Development"]
     },
     {
         "name": "scaffold",
         "repoKey": "lspaccatrosi16/tools",
         "binaryName": "scaffold",
         "artifactName": "scaffold-linux",
-        "description": "project templating tool"
+        "description": "project templating tool",
+        "category": ["CLI Tool", "Development"]
     },
     {
         "name": "bupload",
         "repoKey": "lspaccatrosi16/tools",
         "binaryName": "bupload",
         "artifactName": "bupload-linux",
-        "description": "upload files to cloud buckets"
+        "description": "upload files to cloud buckets",
+        "category": ["CLI Tool"]
     },
     {
         "name": "chi",
         "repoKey": "lspaccatrosi16/tools",
         "binaryName": "chi",
         "artifactName": "chi-linux",
-        "description": "performs chi squared tests"
+        "description": "performs chi squared tests",
+        "category": ["CLI Tool", "Maths"]
     },
     {
         "name": "tsgo",
         "repoKey": "lspaccatrosi16/tools",
         "binaryName": "tsgo",
         "artifactName": "tsgo-linux",
-        "description": "converts typescript types into go structs"
+        "description": "converts typescript types into go structs",
+        "category": ["CLI Tool", "Development"]
     },
     {
         "name": "toascii",
         "repoKey": "lspaccatrosi16/tools",
         "binaryName": "toascii",
         "artifactName": "toascii-linux",
-        "description": "replaces any non ascii character in a text file"
+        "description": "replaces any non ascii character in a text file",
+        "category": ["CLI Tool", "Development"]
     },
     {
         "name": "motion",
         "repoKey": "lspaccatrosi16/motion-tui",
         "binaryName": "motion",
         "artifactName": "motion-linux",
-        "description": "cli interface for motion"
+        "description": "cli interface for motion",
+        "category": ["Productivity", "CLI Tool"]
     }
 ]

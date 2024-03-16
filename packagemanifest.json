@@ -3,30 +3,48 @@
         "name": "g++",
         "description": "C++ compiler",
         "apt": "gcc-c++",
-        "dnf": "gcc-c++"
+        "dnf": "gcc-c++",
+        "category": ["CLI Tool", "Compiler", "Development"]
     },
     {
         "name": "gh",
         "description": "Github CLI",
         "apt": "gh",
-        "dnf": "gh"
+        "dnf": "gh",
+        "category": ["CLI Tool", "Development"]
     },
     {
         "name": "flatpak",
         "description": "package manager",
         "apt": "flatpak",
         "dnf": "flatpak",
+        "category": ["Package Manager", "CLI Tool"],
         "postinstall": "flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo"
     },
     {
         "name": "codium",
         "description": "code editor",
+        "category": ["Editor", "Development"],
         "flatpak": "com.vscodium.codium"
     },
     {
         "name": "gcc",
         "description": "C compiler",
         "apt": "gcc",
-        "dnf": "gcc"
+        "dnf": "gcc",
+        "category": ["Compiler", "Development"]
+    },
+    {
+        "name": "chrome",
+        "description": "Google Chrome",
+        "flatpak": "com.google.Chrome",
+        "category": ["Browser"]
+    },
+    {   
+        "name": "firefox",
+        "description": "Mozilla Firefox",
+        "flatpak": "org.mozilla.firefox",
+        "category": ["Browser"]
     }
+
 ]
