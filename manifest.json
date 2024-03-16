@@ -1,0 +1,44 @@
+[
+    {
+        "name": "releasetool",
+        "repoKey": "lspaccatrosi16/tools",
+        "binaryName": "releasetool",
+        "artifactName": "releasetool-linux",
+        "description": "automatic github asset releaser"
+    },
+    {
+        "name": "scaffold",
+        "repoKey": "lspaccatrosi16/tools",
+        "binaryName": "scaffold",
+        "artifactName": "scaffold-linux",
+        "description": "project templating tool"
+    },
+    {
+        "name": "bupload",
+        "repoKey": "lspaccatrosi16/tools",
+        "binaryName": "bupload",
+        "artifactName": "bupload-linux",
+        "description": "upload files to cloud buckets"
+    },
+    {
+        "name": "chi",
+        "repoKey": "lspaccatrosi16/tools",
+        "binaryName": "chi",
+        "artifactName": "chi-linux",
+        "description": "performs chi squared tests"
+    },
+    {
+        "name": "tsgo",
+        "repoKey": "lspaccatrosi16/tools",
+        "binaryName": "tsgo",
+        "artifactName": "tsgo-linux",
+        "description": "converts typescript types into go structs"
+    },
+    {
+        "name": "toascii",
+        "repoKey": "lspaccatrosi16/tools",
+        "binaryName": "toascii",
+        "artifactName": "toascii-linux",
+        "description": "replaces any non ascii character in a text file"
+    }
+]
