@@ -54,5 +54,13 @@
         "artifactName": "motion-linux",
         "description": "cli interface for motion",
         "category": ["Productivity", "CLI Tool"]
+    },
+    {
+        "name": "lbt",
+        "repoKey": "lspaccatrosi16/lbt",
+        "binaryName": "lbt",
+        "artifactName": "lbt-linux_amd64",
+        "description": "build tool for go",
+        "category": ["Development", "CLI Tool"]
     }
 ]
