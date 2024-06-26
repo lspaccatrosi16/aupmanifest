@@ -3,7 +3,7 @@
         "name": "releasetool",
         "repoKey": "lspaccatrosi16/tools",
         "binaryName": "releasetool",
-        "artifactName": "releasetool-linux",
+        "artifactName": "releasetool-linux_amd64",
         "description": "automatic github asset releaser",
         "category": ["CLI Tool", "Development"]
     },
@@ -11,7 +11,7 @@
         "name": "scaffold",
         "repoKey": "lspaccatrosi16/tools",
         "binaryName": "scaffold",
-        "artifactName": "scaffold-linux",
+        "artifactName": "scaffold-linux_amd64",
         "description": "project templating tool",
         "category": ["CLI Tool", "Development"]
     },
@@ -19,7 +19,7 @@
         "name": "bupload",
         "repoKey": "lspaccatrosi16/tools",
         "binaryName": "bupload",
-        "artifactName": "bupload-linux",
+        "artifactName": "bupload-linux_amd64",
         "description": "upload files to cloud buckets",
         "category": ["CLI Tool"]
     },
@@ -27,7 +27,7 @@
         "name": "chi",
         "repoKey": "lspaccatrosi16/tools",
         "binaryName": "chi",
-        "artifactName": "chi-linux",
+        "artifactName": "chi-linux_amd64",
         "description": "performs chi squared tests",
         "category": ["CLI Tool", "Maths"]
     },
@@ -35,14 +35,14 @@
         "name": "tsgo",
         "repoKey": "lspaccatrosi16/tools",
         "binaryName": "tsgo",
-        "artifactName": "tsgo-linux",
+        "artifactName": "tsgo-linux_amd64",
         "description": "converts typescript types into go structs",
         "category": ["CLI Tool", "Development"]
     },
     {
         "name": "toascii",
         "repoKey": "lspaccatrosi16/tools",
-        "binaryName": "toascii",
+        "binaryName": "toascii_amd64",
         "artifactName": "toascii-linux",
         "description": "replaces any non ascii character in a text file",
         "category": ["CLI Tool", "Development"]
@@ -50,7 +50,7 @@
     {
         "name": "motion",
         "repoKey": "lspaccatrosi16/motion-tui",
-        "binaryName": "motion",
+        "binaryName": "motion_amd64",
         "artifactName": "motion-linux",
         "description": "cli interface for motion",
         "category": ["Productivity", "CLI Tool"]
@@ -58,7 +58,7 @@
     {
         "name": "lbt",
         "repoKey": "lspaccatrosi16/lbt",
-        "binaryName": "lbt",
+        "binaryName": "lbt_amd64",
         "artifactName": "lbt-linux_amd64",
         "description": "build tool for go",
         "category": ["Development", "CLI Tool"]
