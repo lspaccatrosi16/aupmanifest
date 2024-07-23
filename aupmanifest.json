@@ -62,5 +62,13 @@
         "artifactName": "lbt-linux_amd64",
         "description": "build tool for go",
         "category": ["Development", "CLI Tool"]
+    },
+    {
+        "name": "sconfig",
+        "repoKey": "lspaccatrosi16/tools",
+        "binaryName": "sconfig",
+        "artifactName": "sconfig-linux_amd64",
+        "description": "tool for config command",
+        "category": ["CLI Tool", "Development"]
     }
 ]
