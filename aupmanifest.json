@@ -70,5 +70,13 @@
         "artifactName": "sconfig-linux_amd64",
         "description": "tool for config command",
         "category": ["CLI Tool", "Development"]
+    },
+    {
+        "name": "spac",
+        "repoKey": "lspaccatrosi16/spac",
+        "binaryName": "spac",
+        "artifactName": "spac-linux_amd64",
+        "description": "spac tool",
+        "category": ["CLI Tool"]
     }
 ]
