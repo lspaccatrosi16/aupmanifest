@@ -42,7 +42,7 @@
     {
         "name": "toascii",
         "repoKey": "lspaccatrosi16/tools",
-        "binaryName": "toascii_amd64",
+        "binaryName": "toascii-linux_amd64",
         "artifactName": "toascii-linux",
         "description": "replaces any non ascii character in a text file",
         "category": ["CLI Tool", "Development"]
@@ -50,7 +50,7 @@
     {
         "name": "motion",
         "repoKey": "lspaccatrosi16/motion-tui",
-        "binaryName": "motion_amd64",
+        "binaryName": "motion-linux_amd64",
         "artifactName": "motion-linux",
         "description": "cli interface for motion",
         "category": ["Productivity", "CLI Tool"]
