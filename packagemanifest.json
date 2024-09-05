@@ -49,7 +49,7 @@
     {
         "name": "nvim",
         "description": "neovim text editor",
-        "flatpak":" io.neovim.nvim",
+        "flatpak": "io.neovim.nvim",
         "category": ["Editor", "Development"]
     }
 
