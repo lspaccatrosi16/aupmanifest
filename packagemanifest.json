@@ -49,6 +49,8 @@
     {
         "name": "nvim",
         "description": "neovim text editor",
+	"apt": "neovim",
+	"dnf": "neovim",
         "flatpak": "io.neovim.nvim",
         "category": ["Editor", "Development"]
     }
