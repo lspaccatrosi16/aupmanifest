@@ -45,6 +45,12 @@
         "description": "Mozilla Firefox",
         "flatpak": "org.mozilla.firefox",
         "category": ["Browser"]
+    },
+    {
+        "name": "nvim",
+        "description": "neovim text editor",
+        "flatpak":" io.neovim.nvim",
+        "category": ["Editor", "Development"]
     }
 
 ]
